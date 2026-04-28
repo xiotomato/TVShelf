@@ -1,5 +1,7 @@
 # TVShelf
 
+![TVShelf preview](assets/preview.png)
+
 Minimal tvOS daily video shelf built for a closed, child-friendly viewing flow.
 
 ## What it does
